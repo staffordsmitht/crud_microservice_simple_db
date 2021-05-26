@@ -1,0 +1,5 @@
+1. create database in aws 
+2. create role doron with login encrypted password 'your password';
+3. create database myusers with owner = 'doron';
+
+
